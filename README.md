@@ -11,6 +11,7 @@
 <p align="center"><a href="https://github.com/crxdelv/?tab=repositories"><img src="https://creuserr.vercel.app/badge" alt=""></a></p>
 -->
 
+<!--
 <p align="center"><a href="https://octoprofile.vercel.app/user?id=trulyursdelv">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=delvdoescoding&show_icons=true&theme=github_dark&hide_border=true">
@@ -25,3 +26,7 @@
 <p align="center"><a href="https://github.com/trulyursdelv?tab=repositories"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,swift,cpp,lua,ruby,rust,go&perline=5"></a></p>
 
 <p align="center"><a href="https://github.com/trulyursdelv?tab=followers"><img src="https://komarev.com/ghpvc/?username=creuserr&style=for-the-badge" alt=""></a></p>
+
+-->
+
+<img src="https://i.pinimg.com/originals/d6/79/cf/d679cf1a9e364b20bc3e44793298c4dd.gif" alt="@delvdeepr | inactive" align="center">
